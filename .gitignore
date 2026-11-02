@@ -1,6 +1,9 @@
 # local files
 .files/
 
+# course data, only shared on studium
+data/
+
 __pycache__/
 .venv/
 .ipynb_checkpoints/
